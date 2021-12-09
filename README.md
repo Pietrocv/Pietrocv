@@ -1,9 +1,8 @@
-### Hi, I’m Pietro and welcome to my GitHub🎈
+### Olá, eu sou o Pietro e seja bem-vindo ao meu GitHub 🎈
 
-- 🔭 I’m looking for a job
-- 🌱 I’m currently learning Bukkit for Java
-- 📫 How to reach me: Pietrocvisentin@gmail.com
-- 😄 Pronouns: He/Him
+- 🔭 Atualmente estou procurando emprego na área da Informática!
+- 🌱 Atualmente estou estudando Bukkit em Java!
+- 📫 Você pode me contactar em: Pietrocvisentin@gmail.com
 
 -->
 
