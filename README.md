@@ -3,6 +3,7 @@
 - 🔭 Atualmente estou procurando emprego na área da Informática!
 - 🌱 Atualmente estou estudando Bukkit em Java!
 - 📫 Você pode me contactar em: Pietrocvisentin@gmail.com
+- 👓 Eu amo Java!
 
 -->
 
