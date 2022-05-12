@@ -12,7 +12,7 @@
   <img align="center" alt="Pie-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pie-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pie-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Pie-CSS" height="35" width="45" src="https://imgur.com/a/7ZMBbxh">
+  <img align="center" alt="Pie-JS" height="35" width="45" src="https://imgur.com/a/7ZMBbxh">
 </div>
   
   ##
