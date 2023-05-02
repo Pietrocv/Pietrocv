@@ -13,6 +13,8 @@
   <img align="center" alt="Pie-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pie-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Pie-JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pie-CSS" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg](https://cdn.discordapp.com/attachments/303637436561620993/1102800778638397461/react-1.png)">
+  <img align="center" alt="Pie-CSS" height="35" width="45" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg](https://cdn.discordapp.com/attachments/303637436561620993/1102800848410652733/quarkus-logo-C9F006782E-seeklogo.png)">
 </div>
   
   ##
