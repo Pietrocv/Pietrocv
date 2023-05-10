@@ -1,9 +1,8 @@
 ### Olá, eu sou o Pietro e seja bem-vindo ao meu GitHub 🎈
 
-- 🔭 Atualmente estou procurando emprego na área da Informática!
-- 🤓 Estudando Front-End!
-- 📫 Você pode me contactar em: Pietrocvisentin@gmail.com
-- 👓 Eu amo Java!
+- 🔭 Currently looking for a Job!
+- 🤓 Front-End Developer!
+- 📫 You can contact me at: Pietrocvisentin@gmail.com
 
 -->
 
