@@ -1,4 +1,4 @@
-### Olá, eu sou o Pietro e seja bem-vindo ao meu GitHub 🎈
+### Hi, my name is Pietro and welcome to my GitHub 🎈
 
 - 🔭 Currently looking for a Job!
 - 🤓 Front-End Developer!
