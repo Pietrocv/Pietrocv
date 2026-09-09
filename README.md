@@ -1,7 +1,7 @@
 ### Hi, my name is Pietro and welcome to my GitHub 🎈
 
-- 🔭 Currently looking for a Job!
-- 🤓 Back-End Developer!
+- 🔭 Currently looking for Projects!
+- 🤓 AI enthusiast!
 - 📫 You can contact me at: Pietrocvisentin@gmail.com
 
 -->
